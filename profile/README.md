@@ -8,4 +8,4 @@
 
 ### Latest Video
 
- [<img src="https://img.youtube.com/vi/mGwisNSSWNI/maxresdefault.jpg" width="400">](https://youtu.be/mGwisNSSWN "cloud")  [<img src="https://img.youtube.com/vi/rDTmXu6BhIU/maxresdefault.jpg" width="400">](https://youtu.be/rDTmXu6BhIU "uoais")
+ [<img src="https://img.youtube.com/vi/mGwisNSSWNI/maxresdefault.jpg" width="390">](https://youtu.be/mGwisNSSWN "cloud")  [<img src="https://img.youtube.com/vi/rDTmXu6BhIU/maxresdefault.jpg" width="390">](https://youtu.be/rDTmXu6BhIU "uoais")
