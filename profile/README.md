@@ -8,7 +8,7 @@
 
 #### Latest Videos
 ##### Cloud AI Demo
-[<img src="https://img.youtube.com/vi/mGwisNSSWNI/maxresdefault.jpg" height="300">](https://youtu.be/mGwisNSSWN "cloud")  
+[<img src="https://img.youtube.com/vi/mGwisNSSWNI/maxresdefault.jpg" height="300">](https://youtu.be/mGwisNSSWNI "cloud")  
  
 ##### Unseen Object Amodal Instance Segmentation
 [<img src="https://img.youtube.com/vi/rDTmXu6BhIU/maxresdefault.jpg" height="300">](https://youtu.be/rDTmXu6BhIU "uoais")
