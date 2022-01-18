@@ -4,7 +4,7 @@
 - Advised by professor [Kyoobin Lee](https://sites.google.com/view/gistailab/members/professor?authuser=0).
 - 11 Ph.D. Students, 9 M.S. Students, 7 Interns
 
-<img src="./figures/main.jpg" width="400">
+<img src="./figures/main.jpg" width="600">
 
 ### Latest Video
 
