@@ -1,12 +1,12 @@
-## Hi there 👋
+## GIST AILAB 👋
 
-<!--
+![main](./figures/main.jpg)
 
-**Here are some ideas to get you started:**
+- [Artificial Intelligence Laboratory](https://ailab.gist.ac.kr/ailab/) in [GIST](https://www.gist.ac.kr/kr/main.html)
+- Advised by professor [Kyoobin Lee](https://sites.google.com/view/gistailab/members/professor?authuser=0).
+- 11 Ph.D. Students, 9 M.S. Students, 7 Interns
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Latest Video
+[<img src="https://img.youtube.com/vi/mGwisNSSWNI/maxresdefault.jpg" width="500">](https://youtu.be/mGwisNSSWN "cloud")
+
+[<img src="https://img.youtube.com/vi/rDTmXu6BhIU/maxresdefault.jpg" width="500">](https://youtu.be/rDTmXu6BhIU "uoais")
