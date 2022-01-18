@@ -7,10 +7,8 @@
 <img src="./figures/main.jpg" width="800">
 
 #### Latest Videos
-##### Cloud AI Demo
-[<img src="https://img.youtube.com/vi/mGwisNSSWNI/maxresdefault.jpg" height="300">](https://youtu.be/mGwisNSSWNI "cloud")  
- 
-##### Unseen Object Amodal Instance Segmentation
-[<img src="https://img.youtube.com/vi/rDTmXu6BhIU/maxresdefault.jpg" height="300">](https://youtu.be/rDTmXu6BhIU "uoais")
+Cloud AI Demo            |  Unseen Object Amodal Instance Segmentation
+:-------------------------:|:-------------------------:
+[<img src="https://img.youtube.com/vi/mGwisNSSWNI/maxresdefault.jpg" height="200">](https://youtu.be/mGwisNSSWNI "cloud") | [<img src="https://img.youtube.com/vi/rDTmXu6BhIU/maxresdefault.jpg" height="200">](https://youtu.be/rDTmXu6BhIU "uoais")
 
 
