@@ -10,7 +10,7 @@
 <img src="https://github.com/gist-ailab/.github/blob/main/figures/main.jpg" width="800">
 
 #### Latest Research
-Block Selection for Test-time Adaptation (CVPR 2024)           |  Teaching Where to Look (ECCV 2022)
+Block Selection for TTA (CVPR 2024)           |  Teaching Where to Look (ECCV 2022)
 :-------------------------:|:-------------------------:
 [<img src="https://github.com/gist-ailab/domain-specific-block-selection-and-paired-view-pseudo-labeling-for-online-TTA/blob/master/figure/method.png" height="200">]([https://github.com/gist-ailab/block-selection-for-OOD-detection](https://github.com/gist-ailab/domain-specific-block-selection-and-paired-view-pseudo-labeling-for-online-TTA)) | [<img src="https://github.com/gist-ailab/teaching-where-to-look/blob/main/figure/demo.gif" height="200">](https://github.com/gist-ailab/teaching-where-to-look)
 
