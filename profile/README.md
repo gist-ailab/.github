@@ -11,6 +11,6 @@
 #### Latest Research
 ManipForce (ICRA 2026)           |  BiGraspFormer (ICRA 2026)
 :-------------------------:|:-------------------------:
-[<img src="../figures/research/manipforce.png" height="200">](https://github.com/gist-ailab/ManipForce) | [<img src="../figures/research/bigraspformer.gif" height="200">]
+[<img src="../figures/research/manipforce.png" height="200">](https://github.com/gist-ailab/ManipForce) | [<img src="../figures/research/bigraspformer.gif" height="200">](https://sites.google.com/view/bigraspformer)
 
 
